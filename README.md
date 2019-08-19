@@ -9,7 +9,8 @@ After you have done this, proceed to create a new file in the root of the projec
 include the following in the .env file
 
 API_KEY=**********inset your api key here*********************  
-API_SECRET=************insert your api secret here************
+API_SECRET=************insert your api secret here************  
+URL=https://api.bittrex.com/api/v1.1/
 
 You can then start runnimg commands to your account by navigating to the index.js file. 
 
