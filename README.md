@@ -8,7 +8,7 @@ After you have cloned the project into a directory, you will ensure the necessar
 After you have done this, proceed to create a new file in the root of the project and save it as .env.
 include the following in the .env file
 
-API_KEY=**********inset your api key here*********************
+API_KEY=**********inset your api key here*********************  
 API_SECRET=************insert your api secret here************
 
 You can then start runnimg commands to your account by navigating to the index.js file. 
